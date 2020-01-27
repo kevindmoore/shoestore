@@ -1,6 +1,6 @@
 # Shoe Store
 This is the final version of a project to show how to use the Google Navigation library to go between multiple screen/fragments
-###Libraries
+### Libraries
 This project uses the following libraries:
 1. androidx.navigation:navigation-fragment
 2. androidx.navigation:navigation-ui
